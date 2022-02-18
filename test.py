@@ -1,2 +1,1 @@
-dir
-git status
+print("hello this is py")
